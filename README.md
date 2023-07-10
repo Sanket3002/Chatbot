@@ -4,6 +4,9 @@ Checking the 3rd Stage Making the impact
 
 made the change to gross the fork
 
+HEAD
 
-Conflicting the changes from git to github 
-i'm in git right now
+
+
+Conflicting the changes from git to github
+
